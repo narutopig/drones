@@ -13,6 +13,7 @@ a {
 
 * {
   box-sizing: border-box;
+  font-size: x-large;
 }
 
 @media (prefers-color-scheme: dark) {
@@ -20,7 +21,7 @@ a {
     color-scheme: dark;
   }
   body {
-    color: white;
-    background: black;
+    color: black;
+    background: white;
   }
 }
